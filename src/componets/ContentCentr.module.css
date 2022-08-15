@@ -1,0 +1,11 @@
+.content {
+   grid-area: c;
+   background-color: brown;
+}
+
+.ImgContent {
+   width: 600px;
+}
+.post {
+   color: blue;
+}
