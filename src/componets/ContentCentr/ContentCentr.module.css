@@ -1,0 +1,8 @@
+.content {
+   grid-area: c;
+   background-color: rgb(152, 129, 13);
+}
+
+.ImgContent {
+   width: 600px;
+}
